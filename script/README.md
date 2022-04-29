@@ -9,4 +9,4 @@
 
 **04:** Estimate MISR V0.35 and V0.7 in China for 2004-2016 and visualize the spatial distribution<br>
 
-**05:** Summary the predicted results<br>
+**05:** Summarize the predicted results<br>
